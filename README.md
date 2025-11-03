@@ -112,9 +112,7 @@ Extension này tuân thủ:
 
 Nếu bạn có câu hỏi về chính sách quyền riêng tư này:
 
-- **Email:** [your-email@example.com]
-- **GitHub Issues:** [https://github.com/[username]/ai-box/issues]
-- **Chrome Web Store:** [Link tới extension]
+- **Email:** nghoainam1902@gmail.com
 
 ## Tuyên bố Minh bạch
 
