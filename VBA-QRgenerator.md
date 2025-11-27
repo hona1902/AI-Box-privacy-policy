@@ -24,4 +24,4 @@ Last updated: 2025-11-27
 - Không thu thập cookie, lịch sử duyệt web hoặc dữ liệu đăng nhập.
 
 ## Liên hệ
-Thay thế dòng này bằng email/kênh hỗ trợ của bạn trước khi phát hành trên Chrome Web Store.
+email: nghoainam1902@gmail.com
