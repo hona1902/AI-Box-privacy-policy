@@ -17,7 +17,6 @@ Last updated: 2025-11-27
 
 ## Phân quyền
 - `storage`: lưu cài đặt và dữ liệu tiện ích trên thiết bị.
-- `activeTab`/`scripting`: chỉ dùng cho logic nội bộ tiện ích khi cần (không thu thập nội dung trang).
 
 ## Bảo mật
 - Không có mã theo dõi/analytics.
